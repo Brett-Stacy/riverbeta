@@ -1,0 +1,2 @@
+test_1 - test dataRetrieval package to download one station with station_flow script in riverbeta
+test_2 - TRY WITH OTHER STATION IDS TO SEE IF COLUMN NAMES ARE CONSISTENT TO DETERMINE IF PLOTTING FUNCTION CAN BE GENERIC.
