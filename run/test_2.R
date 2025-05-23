@@ -1,5 +1,4 @@
-# test the station flow function
-
+# test another station
 
 rm(list = ls())
 
@@ -7,7 +6,7 @@ library(riverbeta)
 library(tidytable)
 library(ggplot2)
 
-river_beta = read.csv(file = "C:/Users/bstacy2/Documents/Rshiny/RiverBeta_V1_BS.csv")
+river_beta = read.csv(file = "C:/Users/bstacy2/Documents/Rshiny/River Choice Selector - Share Copy.csv")
 
 station_id = river_beta$guage_id[2]
 # REMEMBER TO APPLY PERCENT CORRECTION SOMEWHERE BEFORE PLOT!

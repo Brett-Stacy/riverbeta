@@ -1,0 +1,750 @@
+ID,Run_Name,Difficulty,Flow,Gauge,Character,Local_Beta,Portages,Mileage,Gradient_ft_mile,Drainage,Winter,Spring,Summer,Fall,Snow,Rain,Dam,Run_Number,Page_Number,Arcata_to_Takeout_minutes,Put_in,Put_in_Coordinates,Take_out,Take_out_Coordinates,Total_Drive_Time,Arcata_to_Takeout,Takeout_to_Put_in_minutes,Shuttle_mi,Shuttle_one_way,Hike
+5,Oregon hole Gorge,five,3000+,60% of Smith @ Jed,roadside gorge,Youtube Paul Gamache,no,2.4,"40 average, 70 gorge","Smith, MF",yes,yes,,yes,yes,yes,,2,4,100,Oregon hole gorge,"41.8219, -124.0347",forks river access,"41.7987, -124.0558",1:55:00,1:40:00,5,2.4,0:05:00,no
+9,Hardscrabble Creek,five,400+,estimate of Smith @ Jed,Remote steep creek,boat abuser,"2+, wood",6.5,"312, 141, 161, 207, 192, 160, 47","Smith, MF",yes,yes,,yes,,yes,,4,6,105,Altaville Mine,"41.9087, -124.0334",Highway 199,"41.8388, -124.0267",3:15:00,1:45:00,30,8,0:30:00,downhill to creek
+16,NF Diamond Creek,five,20000-40000,Smith @ Jed,remote creeking,high water = no eddies,wood,2.4,"262, 241, 50","Smith, NF",yes,yes,,yes,,yes,,7,11,180,wimer road,"42.0032, -123.8827",diamond falls,"41.9768, -123.9073",4:00:00,3:00:00,20,5 (4wd),0:20:00,no
+25,Siskiyou Gorge,five,1000+,15% of Smith @ Jed,roadside gorge,oyster shooters?,no,1.5,"138, 44","Smith, MF",yes,yes,,yes,yes,yes,,11,18,120,Above Gorge,"41.8782, -123.8277",patrick creek lodge,"41.8743, -123.8437",2:15:00,2:00:00,5,1.5,0:05:00,no
+32,SF Gorge,five,1500+,40% of Smith @ Jed,pool-drop gorge,old slalom site,no,1.6,60,"Smith, SF",yes,yes,,yes,yes,yes,,14,22,100,Craig's Beach,"41.7931, -124.0267",SF Road Bridge,"41.7975, -124.0548",1:55:00,1:40:00,5,1.6,0:05:00,no
+38,Upper Goose Creek,five,750+,10% of Smith @ Jed,remote fun creek,early start,0-2,11.5,"98, 62, 107, 76, 181, 105, 30","Smith, SF",yes,yes,,yes,,yes,,17,25,125,Forks of Goose,"41.5922, -123.8767",Steven's Bridge,"41.6920, -123.9285",3:20:00,2:05:00,25,10,0:25:00,6mi
+41,Island Lake Run,five,6000-20000,Smith @ Jed,wilderness multiday,got wood?,0-2+ wood,22.5,158 average first 12 miles,"Smith, SF",yes,yes,,yes,yes,yes,,19,29,125,Island Lake Trail (3200'),"41.8129, -123.7152",Steven's Bridge,"41.6920, -123.9285",6:05:00,2:05:00,80,20,1:20:00,3mi
+45,Dillon Creek,five,150-300,Indian Cr @ Happy Camp,committing wilderness,awesome creek,0-2,9.5,"156, 193, 137, 101, 169, 124, 95, 183, 33, 26",Klamath,,yes,,,yes,yes,,21,38,125,Copper Creek (2000'),"41.5850, -123.6296",Klamath River (783'),"41.5764, -123.5378",4:20:00,2:05:00,45,10,0:45:00,4mi (if gate locked)
+62,Shackleford Creek,five,75-150,Scott River nr Fort Jones,extreme micro creek,no big names,yes,3.9,"375, 452, 370, 176",Scott,yes,yes,,,yes,yes,,30,56,230,Shackleford Trailhead,"41.5625, -123.0487",Shackleford Falls,"41.5924, -122.9996",4:50:00,3:50:00,20,5.8,0:20:00,no
+64,Kidder Creek,five,500+,Scott River nr Fort Jones,introductory creek,Etna Brewery,no,3,"200, 200, 134",Scott,yes,yes,,,yes,yes,,31,58,235,Babs Fork,"41.5012, -123.0265",Kindig Camp,"41.5198, -122.9908",7:25:00,3:55:00,70,3mi hike,1:10:00,3mi
+65,Patterson Creek,five,75-150,Scott River nr Fort Jones,steep creek,"when in doubt, scout!",5,3.6,"236 average, 1st mi 400",Scott,yes,yes,,,yes,yes,,32,60,225,Unnamed Road,"41.4842, -122.9897",Off of Road 42N07,"41.5110, -122.9452",4:30:00,3:45:00,15,4.5,0:15:00,no
+69,Tully Creek,five,when rocks are covered,no,steep creek,landslide mess,5-10+,6,"170, 158, 111, 213, 272, 350",Klamath,yes,yes,,,,yes,,36,68,90,Gated road off Bald Hills Road,"41.1627, -123.8195",Bridge on Tully Creek road,"41.2283, -123.7765",3:00:00,1:30:00,30,12,0:30:00,"yes, down road & short scramble"
+73,Bluff Creek,five,250-800,visual,remote gnar,sasquatch country,2,13,118 average,Klamath,yes,yes,,yes,yes,yes,,39,72,85,Fish Creek,"41.3632, -123.7204",Bluff Creek River Access,"41.2415, -123.6545",4:55:00,1:25:00,70,20,1:10:00,0.5 mi
+77,Upper Red Cap Creek,five,500+,Salmon @ Somes Bar,wilderness gorge,poison oak on hike in,0-3,6.5,"147, 259, 214, 90, 88, 129, 53",Klamath,yes,yes,,yes,yes,yes,,41,75,180,Red Cap Central mine,"41.2027, -123.5242",First Bridge,"41.2428, -123.5443",5:30:00,3:00:00,50,12,0:50:00,2mi
+80,Mill Creek,five,1.5' on gauge,stick gauge at takeout,steep creek,you're a crazy kayaker,1+ wood,10,"126 average, mile 5 is 260",Trinity,yes,yes,,,yes,yes,,43,78,65,Off Big Hill Road,"41.1547, -123.5789",Trinity River,"41.0890, -123.6951",3:50:00,1:05:00,55,12,0:55:00,no
+90,Butler Run,five,7000+,Salmon @ Somes Bar,semi-roadside play,dogs spread poison oak,no,4,53 average,Salmon,yes,yes,,yes,yes,yes,,49,90,110,Butler Creek Access,"41.3374, -123.4087",Brannon's Bar,"41.3738, -123.4321",2:20:00,1:50:00,10,4,0:10:00,no
+93,Nordheimer Run,five,7000+,Salmon @ Somes Bar,pool-drop classic,rattlers @ cascade,no,7,38 average,Salmon,yes,yes,,yes,yes,yes,,50,91,120,Nordheimer Campground,"41.2974, -123.3599",Butler Creek Access,"41.3374, -123.4087",2:45:00,2:00:00,15,7,0:15:00,no
+95,Wooley Creek,five,3500+,Salmon @ Somes Bar,wilderness goods,Lars' favorite,no,5,97 average,Salmon,yes,yes,,yes,yes,yes,,51,93,110,Wooley Camp,"41.3762, -123.4319",Brannon's Bar,"41.3738, -123.4321",6:50:00,1:50:00,100,5mi hike,1:40:00,5mi
+98,Bridge Creek,five,3500-5000,Salmon @ Somes Bar,wilderness creeking,adventure time,yes,3 (11),"336, 448, 529",Salmon,,yes,,,yes,yes,,53,95,110,Near Halfmoon Creek,"41.4713, -123.3684",Brannon's Bar,"41.3738, -123.4321",6:50:00,1:50:00,100,2mi hard hike,1:40:00,"2mi, hard"
+99,Crapo Creek,five,4200-7000,Salmon @ Somes Bar,Tiny creeking,got breakdown?,yes,4,"404, 374, 351, 272",Salmon,yes,yes,,,yes,yes,,54,98,130,Hike down from Road 11N21 (2477'),"41.2909, -123.3010",Nordheimer Campground,"41.2974, -123.3599",5:40:00,2:10:00,70,2mi downhill hike,1:10:00,2mi
+108,SF Gorge,five,5000+,Salmon @ Somes Bar,"steep, narrow, classic",limestone bluffs,no,5.5,"30, 56, 105, 82, 108, 39","Salmon, SF",yes,yes,,yes,yes,yes,,58,103,190,Mining Claim (2133'),"41.1428, -123.1899",Matthews Creek (1713'),"41.2276, -123.0162",3:55:00,3:10:00,15,6,0:15:00,no
+115,Carhood WIllow Creek,five,200-600,Estimator: Redwood @ Blue Lake,roadside mank/gnar,ski @ horse mountain,0-1,1,279,"Trinity, WC",yes,yes,,,yes,yes,,63,112,40,Highway 299 Bridge M.P. 35.5,"40.9314, -123.6821",Milepost 36.44,"40.9399, -123.6701",0:55:00,0:40:00,5,1,0:05:00,uphill at takeout
+138,North Fork Trinity,five,1000-1800,NF Trinity @ Helena,wilderness classic,100 rapids,4-Feb,14,104 average,"Trinity, NF",yes,yes,,,yes,yes,,75,130,95,Hobo Gulch (2877'),"40.9281, -123.1548",East Fork (1392'),"40.7842, -123.1307",4:05:00,1:35:00,50,14,0:50:00,no
+153,Hayfork Lower Gorge,five,900-1500,SF Trinity @ Hyampom,wilderness creeking,"""hi-am-pom""",2-Jan,15,"53 average, 100 in gorges","Trinity, SFHC",yes,yes,,yes,early snowmelt,yes,,82,143,140,Nine Mile Bridge (2077'),"40.5953, -123.2785",Hyampom (1276'),"40.6156, -123.4502",3:50:00,2:20:00,30,14,0:30:00,no
+166,The Weir Hole,five,3000+,Trinity @ Lewiston,fun or crazy,gravel chucking spot,no,0,8,Trinity,yes,yes,yes,yes,,,yes,88,152,135,Weir Hole,"40.7189, -122.8031",Weir Hole,"40.7189, -122.8031",2:15:00,2:15:00,0,0,0:00:00,15'
+172,Swift Creek Gorge,five,75-150,Trinity above Coffee Creek,boxed-in gorge,laps?,2,1,359,"Trinity, AD",,late,yes,,yes,,,92,158,180,Granite Lake Trail (4306'),"40.9824, -122.8179",Swift Creek Trail (3967'),"40.9734, -122.8000",4:00:00,3:00:00,20,1mi hike,0:20:00,1mi
+182,Brandy Creek,five,200+,no,steep creek,mountain bike shuttle,wood,2,359 average,"Trinity, AD",yes,yes,,yes,yes,yes,,97,164,165,Brandy Creek Trailhead (1998'),"40.6000, -122.5947",Brandy Creek Road (1280'),"40.6128, -122.5747",3:15:00,2:45:00,10,3,0:10:00,optional
+221,Tenmile Creek,five,6000+,SF Eel @ Leggett,wilderness gorge,safety goggles?,no,22,31 average,"Eel, SF",yes,yes,,yes,,yes,,119,199,105,Flatcar Bridge (1430'),"39.7607, -123.5410",Highway 1 (749'),"39.8639, -123.7216",2:45:00,1:45:00,20,16,0:20:00,no
+47,Ukonom Creek,five,2600-4100,Salmon @ Somes Bar,wilderness creeking,chainsaws & 4wd,yes,7,"700, 700, 175, 250, 250, 175, 250",Klamath,yes,yes,,yes,yes,yes,,A,40,130,No Man's Trailhead,"41.5460, -123.4066",Coon Creek River Access,"41.6139, -123.4952",5:10:00,2:10:00,60,25 (one way),1:00:00,<1mi
+183,Upper Brandy Creek,five (five+),100-200,no,extreme creeking,wood moves,yes,1.5,"513, 206","Trinity, AD",yes,yes,,,yes,yes,,98,166,80,Brandy Creek Trail (2717'),"40.5961, -122.6004",Brandy Creek Trailhead (1998'),"40.5970, -122.6004",3:20:00,1:20:00,40,2mi hike,0:40:00,1.5
+207,Goat Rock,five (five+),1400-6000,Van Duzen @ Bridgeville,roadside gnar,high water spectacle,0-1,4,"36, 32, 96, 42","Eel, VD",yes,yes,,yes,yes,yes,,110,185,70,Little Larabee Creek (636'),"40.4684, -123.8019",Golden Gate Drive (430'),"40.4673, -123.8347",1:40:00,1:10:00,10,3,0:10:00,no
+118,Teacups Willow Creek,five (P),75-150,Estimator: Redwood @ Blue Lake,micro gnar,bring a hand saw,yes,2,"400, 278","Trinity, WC",yes,yes,,,,heavy rain,,65,115,40,Obscure turnout,"40.9057, -123.7372",East Fork Campground,"40.9082, -123.7075",0:55:00,0:40:00,5,2,0:05:00,short downhill
+195,Grand Canyon of the Mad,five (P),1000-2000,Call HBMWD & Mad @ Arcata,coast classic,camp madman,yes,30,58 average,Mad,yes,yes,,,,yes,yes,105,177,70,Highway 36 (2457'),"40.4495, -123.5028",Jack Shaw Road (722'),"40.6627, -123.8388",6:40:00,1:10:00,110,41,1:50:00,no
+123,New River Gorge,five (V+),1000-1500,Estimator: Salmon @ Somes Bar,wilderness gorge,scary when high,0-2,8.5,64 average; 131 & 102 in forge,"Trinity, New",yes,yes,,,yes,yes,,67,119,60,Panther Creek (1173'),"40.9078, -123.4266",Grey's Falls (630'),"40.8579, -123.4929",3:15:00,1:00:00,45,20,0:45:00,short downhill
+20,Baldface Creek,five-,20000-40000,Smith @ Jed,wilderness,4wd'll getcha there,no,6.5 (22),"112, 95, 151, 131, 131, 109, 29","Smith, NF",yes,yes,,yes,,yes,,8.5,14,110,Frantz Meadow,"42.0665, -123.8975",steel pipe,"41.8480, -123.9686",5:50:00,1:50:00,80,26 (one way),1:20:00,6mi on road
+114,Carhood WIllow Creek,five-,150-200,Estimator: Redwood @ Blue Lake,roadside mank/gnar,ski @ horse mountain,0-1,1,279,"Trinity, WC",yes,yes,,,yes,yes,,63,112,40,Highway 299 Bridge M.P. 35.5,"40.9314, -123.6821",Milepost 36.44,"40.9399, -123.6701",0:55:00,0:40:00,5,1,0:05:00,uphill at takeout
+220,Tenmile Creek,five-,3500-6000,SF Eel @ Leggett,wilderness gorge,safety goggles?,no,22,31 average,"Eel, SF",yes,yes,,yes,,yes,,119,199,105,Flatcar Bridge (1430'),"39.7607, -123.5410",Highway 1 (749'),"39.8639, -123.7216",2:45:00,1:45:00,20,16,0:20:00,no
+46,Dillon Creek,five+,300-600,Indian Cr @ Happy Camp,committing wilderness,awesome creek,0-2,9.5,"156, 193, 137, 101, 169, 124, 95, 183, 33, 26",Klamath,,yes,,,yes,yes,,21,38,125,Copper Creek (2000'),"41.5850, -123.6296",Klamath River (783'),"41.5764, -123.5378",4:20:00,2:05:00,45,10,0:45:00,4mi (if gate locked)
+100,Crapo Creek,five+,7000+,Salmon @ Somes Bar,Tiny creeking,got breakdown?,yes,4,"404, 374, 351, 272",Salmon,yes,yes,,,yes,yes,,54,98,130,Hike down from Road 11N21 (2477'),"41.2909, -123.3010",Nordheimer Campground,"41.2974, -123.3599",5:40:00,2:10:00,70,2mi downhill hike,1:10:00,2mi
+109,EF SF Salmon,five+,150-250?,Salmon @ Somes Bar,buck gnar,skiing at Callahan,yes,4.5,"236, 223, 355, 190, 46","Salmon, SF",yes,yes,,,yes,yes,,59,104,180,Sixmile Creek (3750'),"41.2276, -123.0162",Shadow Creek (2700'),"41.2031, -123.0706",3:30:00,3:00:00,10,4,0:10:00,1mi
+113,Forbidden Zone Willow Creek,five+,200-400,Estimator: Redwood @ Blue Lake,sieved out,proposed for mini-hydro,5-Jan,0.75,380,"Trinity, WC",yes,yes,,,yes,yes,,62,111,45,White Trash. [sic],"40.9399, -123.6701",Boise Creek Campground (696'),"40.9450, -123.6578",1:00:00,0:45:00,5,1,0:05:00,0.5
+116,Carhood WIllow Creek,five+,600+,Estimator: Redwood @ Blue Lake,roadside mank/gnar,ski @ horse mountain,0-1,1,279,"Trinity, WC",yes,yes,,,yes,yes,,63,112,40,Highway 299 Bridge M.P. 35.5,"40.9314, -123.6821",Milepost 36.44,"40.9399, -123.6701",0:55:00,0:40:00,5,1,0:05:00,uphill at takeout
+121,Burnt Ranch Gorge,five+,4500+,Trinity @ Cedar Flat,classic gorge,Cali Burn-fest,no,9.5,43 average 70 in 4 mile gorge,Trinity,yes,yes,yes,yes,yes,yes,yes,66,116,60,Cedar Flat (954'),"40.7899, -123.4389",Hawkins Bar River Access,"40.8734, -123.5278",1:45:00,1:00:00,15,9,0:15:00,optional
+173,Swift Creek Gorge,five+,75-150,Trinity above Coffee Creek,boxed-in gorge,laps?,2,1,359,"Trinity, AD",,late,yes,,yes,,,92,158,180,Granite Lake Trail (4306'),"40.9824, -122.8179",Swift Creek Trail (3967'),"40.9734, -122.8000",4:00:00,3:00:00,20,1mi hike,0:20:00,1mi
+180,Crystal Creek Falls,five+,150-300,no,Park and huck,juvenile corrections,no,0.25,130,"Trinity, AD",yes,yes,,,,yes,,96,163,150,Above Falls,"40.6461, -122.6667",Below Falls,"40.6675, -122.6470",2:45:00,2:30:00,5,4.5,0:05:00,no
+196,Grand Canyon of the Mad,five+,2000-3500,Call HBMWD & Mad @ Arcata,coast classic,camp madman,yes,30,58 average,Mad,yes,yes,,,,yes,yes,105,177,70,Highway 36 (2457'),"40.4495, -123.5028",Jack Shaw Road (722'),"40.6627, -123.8388",6:40:00,1:10:00,110,41,1:50:00,no
+208,Bloody Run,five+,1200-3000,Van Duzen @ Bridgeville,sieved out,challenging,many,17,100 average,"Eel, VD",yes,yes,,yes,,yes,,111,186,70,Highway 36 Bridge (2359'),"40.4893, -123.6257",Little Larabee Creek (636'),"40.4684, -123.8019",2:25:00,1:10:00,25,30,0:25:00,no
+3,Oregon hole Gorge,four,300-1500,60% of Smith @ Jed,roadside gorge,Youtube Paul Gamache,no,2.4,"40 average, 70 gorge","Smith, MF",yes,yes,,yes,yes,yes,,2,4,100,Oregon hole gorge,"41.8219, -124.0347",forks river access,"41.7987, -124.0558",1:55:00,1:40:00,5,2.4,0:05:00,no
+11,NF Smith,four,2000-4000,30% of Smith @ Jed,wilderness classic,local favorite,no,14,40 average,"Smith, NF",yes,yes,,yes,,yes,,5,8,110,Major Moore's,"41.9821, -123.9604",steel pipe,"41.8480, -123.9686",5:50:00,1:50:00,80,22,1:20:00,no
+24,Patrick Creek,four,500-1000+,over 20000 on Smith @ Jed,roadside continuous,oyster shooters?,no,2.2,120,"Smith, MF",yes,yes,,yes,,yes,,10,17,120,Shelley Creek Confluence,"41.9010, -123.8544",patrick creek lodge,"41.8743, -123.8437",2:30:00,2:00:00,10,2,0:10:00,no
+28,Knopki Gorges,four,750+,<10% of Smith @ Jed,semi-roadside gorge,got pogies?,no,7.3,67 average,"Smith, MF",yes,yes,,yes,yes,yes,,12,20,120,bridge on knopki creek road,"41.9230, -123.7520",siskiyou gorge,"41.8782, -123.8277",2:45:00,2:00:00,15,8,0:15:00,no
+30,SF Gorge,four,400-800,40% of Smith @ Jed,pool-drop gorge,old slalom site,no,1.6,60,"Smith, SF",yes,yes,,yes,yes,yes,,14,22,100,Craig's Beach,"41.7931, -124.0267",SF Road Bridge,"41.7975, -124.0548",1:55:00,1:40:00,5,1.6,0:05:00,no
+44,The Ikes,four,10000+,Klamath @ Orleans,roadside bigwater play,blue-green algae?,no,5.6,20 average,Klamath,yes,yes,yes,yes,yes,yes,yes,20,37,100,Salmon River Confluence,"41.3773, -123.4943",Dolan's Bar,"41.3187, -123.5258",2:25:00,1:40:00,15,6,0:15:00,no
+66,Etna Creek,four,100-300,Scott River nr Fort Jones,introductory creek,Etna Brewery,no,2.5,"261, 195, 93",Scott,yes,yes,,,yes,yes,,33,63,200,Mill Creek,"41.4290, -122.9648",Roadside gate,"41.4307, -122.9184",3:35:00,3:20:00,5,2.5,0:05:00,no
+88,Butler Run,four,700-2800,Salmon @ Somes Bar,semi-roadside play,dogs spread poison oak,no,4,53 average,Salmon,yes,yes,,yes,yes,yes,,49,90,110,Butler Creek Access,"41.3374, -123.4087",Brannon's Bar,"41.3738, -123.4321",2:20:00,1:50:00,10,4,0:10:00,no
+135,"Todd's Cabin, EFNFT",four,150-250,15% of North Trin,quality creeking,NFT backup plan,wood,5.3,"103, 74, 117, 105, 65, 14","Trinity, NF",yes,yes,,,peak snowmelt,yes,,74,129,105,Todd's Cabin (2169'),"40.8821, -123.1262",Barney Gulch (1691'),"40.8209, -123.1238",3:15:00,1:45:00,30,10.3,0:30:00,no
+139,Canyon Creek,four,150-500,Subtract this from this for nearly exact flow,roadside fun,monastery in junction city,no,2.7,"76, 71, 45","Trinity, CC",yes,yes,,,yes,yes,,76,133,100,Large Flat,"40.7843, -123.0574",Powerhouse Road,"40.7548, -123.0590",1:55:00,1:40:00,5,2.5,0:05:00,no
+146,Three Bears,four,1500-4000,SF Trinity @ Hyampom,Bread and butter classic,best bike shuttle,no,6.75,27 average,"Trinity, SF",yes,yes,,yes,yes,yes,,79,137,70,Surprise Falls (735'),"40.7885, -123.5583",Low Water Bridge (551'),"40.8351, -123.5679",1:55:00,1:10:00,15,6,0:15:00,no
+160,Indian Creek,four,150-250,Indian Creek,roadside goods,lunker browns at the mouth,0-3,3.7,"314, 199, 148, 82",Trinity,yes,yes,,,yes,yes,,86,150,140,Cannonball Flat (3000'),"40.5916, -122.7924",Indian Creek Road (2257'),"40.6004, -122.8522",2:50:00,2:20:00,10,3,0:10:00,no
+165,The Weir Hole,four,2000-3000,Trinity @ Lewiston,fun or crazy,gravel chucking spot,no,0,8,Trinity,yes,yes,yes,yes,,,yes,88,152,135,Weir Hole,"40.7189, -122.8031",Weir Hole,"40.7189, -122.8031",2:15:00,2:15:00,0,0,0:00:00,15'
+179,Coffee Creek,four,800-1500,dreamflows,roadside continuous,burgers in trinity center,possible wood,9,115 average,"Trinity, AD",,yes,,,yes,yes,,95,161,160,North Fork Coffee Creek (3516'),"41.1213, -122.8353",Highway 3 Bridge (2485'),"41.0834, -122.7058",3:55:00,2:40:00,25,9,0:25:00,no
+203,Grizzly Creek,four,6000+,Van Duzen @ Bridgeville,roadside play run,"cruzin, to the duzen",no,3,24 average,"Eel, VD",yes,yes,,,,yes,,108,182,55,Highway 36 Bridge (367'),"40.4825, -123.8940",Low-water Bridge (295'),"40.4762, -123.9351",1:10:00,0:55:00,5,2.5,0:05:00,no
+205,Yager Creek,four,2000+,Van Duzen @ Bridgeville,stealthy goods,Taco Loco in Fortuna,no,15-Jun,45 average,"Eel, VD",yes,yes,,,,yes,,109,184,40,Yager Lawrence Mainline,"40.5761, -124.0118",Highway 36 Bridge,"40.5378, -124.0637",2:25:00,0:40:00,35,see note,0:35:00,maybe
+219,Tenmile Creek,four,1400-3500,SF Eel @ Leggett,wilderness gorge,safety goggles?,no,22,31 average,"Eel, SF",yes,yes,,yes,,yes,,119,199,105,Flatcar Bridge (1430'),"39.7607, -123.5410",Highway 1 (749'),"39.8639, -123.7216",2:45:00,1:45:00,20,16,0:20:00,no
+23,Patrick Creek Run,four (IV+),5000+,25% of Smith @ Jed,roadside play run,thanksgiving at the lodge?,no,6,64 average,"Smith, MF",yes,yes,,yes,yes,yes,,9,16,115,patrick creek campground,"41.8719, -123.8450",panther flat campground,"41.8429, -123.9329",2:25:00,1:55:00,10,6,0:10:00,no
+184,Clear Creek Below Whiskeytown,four (IV+),200-600,Clear Creek @ Igo,backyard stash,CVP,0-1,7.5,44 average,Sacramento,yes,yes,yes,yes,,yes,yes,99,167,180,NEED Camp Road (915'),"40.5803, -122.5373",Clear Creek Road (587'),"40.4942, -122.4983",4:30:00,3:00:00,30,15,0:30:00,no
+17,Headwaters NF Smith,four (P),"300-500 (at put-in), 6000-20000 on Jed",Smith @ Jed,secluded wilderness,rarely paddled,wood,10,69 average,"Smith, NF",yes,yes,,,,yes,,8,12,180,horse creek (1859'),"42.0901, -123.9990",Major Moore's,"41.9821, -123.9604",12:00:00,3:00:00,180,40,3:00:00,2mi
+19,Baldface Creek,four (V-),12000-20000,Smith @ Jed,wilderness,4wd'll getcha there,no,6.5 (22),"112, 95, 151, 131, 131, 109, 29","Smith, NF",yes,yes,,yes,,yes,,8.5,14,110,Frantz Meadow,"42.0665, -123.8975",steel pipe,"41.8480, -123.9686",5:50:00,1:50:00,80,26 (one way),1:20:00,6mi on road
+26,Siskiyou Gorge,four (V-),500-1000,15% of Smith @ Jed,roadside gorge,oyster shooters?,no,1.5,"138, 44","Smith, MF",yes,yes,,yes,yes,yes,,11,18,120,Above Gorge,"41.8782, -123.8277",patrick creek lodge,"41.8743, -123.8437",2:15:00,2:00:00,5,1.5,0:05:00,no
+54,Elk Creek,four (V-),250-750,Indian Cr @ Happy Camp,semi-roadside fun,Apres Paddle Pizza,0-3,12.5,"164, 111, 115, 82, 85, 82, 116, 68, 36, 102, 30, 80, 28",Klamath,,yes,,,yes,yes,,25,48,150,Sulphur Springs Trailhead,"41.6448, -123.3077",Curly Jack Road,"41.7805, -123.3933",4:45:00,2:30:00,45,11,0:45:00,no
+60,Scott River Canyon,four (V-),800-2000,Scott River nr Fort Jones,roadside classic,fun play @ 2000,no,14,"60 average, 80 first 4mi",Scott,yes,yes,,,yes,yes,,29,55,190,Indian Scotty Campground,"41.6332, -123.0837",Scott Bar Bridge,"41.7427, -123.0027",4:25:00,3:10:00,25,14.5,0:25:00,no
+91,Nordheimer Run,four (V-),1100-3500,Salmon @ Somes Bar,pool-drop classic,rattlers @ cascade,no,7,38 average,Salmon,yes,yes,,yes,yes,yes,,50,91,120,Nordheimer Campground,"41.2974, -123.3599",Butler Creek Access,"41.3374, -123.4087",2:45:00,2:00:00,15,7,0:15:00,no
+141,Bridge to Bridge,four (V-),150-350,Subtract this from this for nearly exact flow,semi-roadside goods,historic mining debris,possible wood,3.5,"178, 155, 128, 56","Trinity, CC",yes,yes,,,yes,yes,,77,134,115,Ripstein Campground,"40.8763, -123.0290",8 Mile Bridge,"40.8359, -123.0498",2:25:00,1:55:00,10,3.5,0:10:00,no
+155,Middle Hayfork,four (V-),1000+,SF Trinity @ Hyampom,intermediate creeking,wild west,0-2,8,28 average,"Trinity, SFHC",yes,yes,,,yes,yes,,83,144,180,Highway 3 in Hayfork (2290'),"40.5504, -123.1911",Nine Mile Bridge (2077'),"40.5953, -123.2785",3:45:00,3:00:00,15,7,0:15:00,no
+15,NF Diamond Creek,four (V),12000-20000,Smith @ Jed,remote creeking,high water = no eddies,wood,2.4,"262, 241, 50","Smith, NF",yes,yes,,yes,,yes,,7,11,180,wimer road,"42.0032, -123.8827",diamond falls,"41.9768, -123.9073",4:00:00,3:00:00,20,5 (4wd),0:20:00,no
+40,South Kelsey Run,four (V),1500-3000+,25% of Smith @ Jed,wilderness gorge,hike and huck put-in,0-1,8,"62, 69, 115, 82, 33, 45, 23","Smith, SF",yes,yes,,yes,yes,yes,,18,26,125,Buck Creek Camp (1020'),"41.6508, -123.8455",Steven's Bridge,"41.6920, -123.9285",3:05:00,2:05:00,20,6,0:20:00,2mi
+56,Elk Creek Wilderness Run,four (V),250-500,Indian Cr @ Happy Camp,wilderness goods,rainy valley,0-2,3.8,"223, 210, 161, 135",Klamath,,yes,,,yes,yes,,26,49,190,Granite Creek,"41.6170, -123.2863",Sulphur Springs Trailhead,"41.6448, -123.3077",6:10:00,3:10:00,60,3mi hike,1:00:00,3mi
+70,Pine Creek,four (V),when rocks are covered,stick gauge at takeout,classic goods,secret stash,0-1,4,"108, 128, 168, 121",Klamath,yes,yes,,,,yes,,37,70,90,French Camp Road,"41.1471, -123.7861",Pine Creek Road,"41.1938, -123.7548",3:30:00,1:30:00,40,15,0:40:00,no
+85,Tall Trees Run,four (V),3000-10000,Redwood @ Orick,world heritage site,no dogs allowed,1 wood,26,20 average,Redwood,yes,yes,,yes,yes,yes,,47,81,35,Redwood Valley,"40.9638, -123.8406",Orick,"41.2999, -124.0433",4:35:00,0:35:00,80,61,1:20:00,no
+119,Burnt Ranch Gorge,four (V),350-1000,Trinity @ Cedar Flat,classic gorge,Cali Burn-fest,no,9.5,43 average 70 in 4 mile gorge,Trinity,yes,yes,yes,yes,yes,yes,yes,66,116,60,Cedar Flat (954'),"40.7899, -123.4389",Hawkins Bar River Access,"40.8734, -123.5278",1:45:00,1:00:00,15,9,0:15:00,optional
+149,The Classic,four (V),2000+,SF Trinity @ Hyampom,Wilderness goods,april is nice!,0-3,12,39 average,"Trinity, SF",yes,yes,,,yes,yes,,80,138,80,Big Slide Campground (1200'),"40.6648, -123.4980",Surprise Creek (735'),"40.7885, -123.5583",8:05:00,1:20:00,135,45,2:15:00,no
+151,Overnighter,four (V),1500+,SF Trinity @ Hyampom,wilderness adventure,lover's leap,1-5 (1 mandatory),26,38 average,"Trinity, SF",yes,yes,,,yes,yes,,81,140,140,Highway 36,"40.3707, -123.3133",Hyampom,"40.6042, -123.4484",5:50:00,2:20:00,70,45,1:10:00,no
+152,Hayfork Lower Gorge,four (V),350-900,SF Trinity @ Hyampom,wilderness creeking,"""hi-am-pom""",2-Jan,15,"53 average, 100 in gorges","Trinity, SFHC",yes,yes,,yes,early snowmelt,yes,,82,143,140,Nine Mile Bridge (2077'),"40.5953, -123.2785",Hyampom (1276'),"40.6156, -123.4502",3:50:00,2:20:00,30,14,0:30:00,no
+157,Upper Hayfork,four (V),2000+,SF Trinity @ Hyampom,semi-roadside gorge,limestone bridge,0-3,6,"58, 94, 141, 115, 102, 36","Trinity, SFHC",yes,yes,,,yes,yes,,84,145,170,Gemmil Gulch (3197'),"40.4306, -123.0571",East Fork Bridge (2651'),"40.4908, -123.0725",3:35:00,2:50:00,15,6,0:15:00,no
+169,Upper Stuart Fork,four (V),500-800,Trinity above Coffee Creek,Wilderness goods,mining history,0-3,7,"243, 201, 213, 182, 142, 125, 68","Trinity, AD",yes,yes,,,yes,yes,,90,155,140,Deer Creek (3860'),"40.9511, -122.9481",Bridge Camp (2686'),"40.8729, -122.9176",10:05:00,2:20:00,155,7mi hike,2:35:00,7mi
+175,EF Trinity,four (V),1000-2000,Trinity above Coffee Creek,remote scenic goods,A+ camping at takeout,0-1,10,"126, 89, 134, 141, 150, 115, 112, 120, 96, 83","Trinity, AD",yes,yes,,,yes,yes,,93,159,170,Mumbo Creek (35'62),"41.1230, -122.5593",Alpen Cellars (2396'),"41.0094, -122.6194",6:35:00,2:50:00,75,24,1:15:00,no
+216,Salmon Creek,four (V),100-500,Estimator: Bull Creek @ Weott,private property,Be polite,"0-2, possible wood",8,"119, 110, 161, 181, 96, 88, 50, 16","Eel, SF",yes,yes,,yes,,yes,,117,197,70,Off Thomas Road (1100'),"40.2393, -123.9702",Salmon Creek Road (279'),"40.2286, -123.8615",2:55:00,1:10:00,35,11,0:35:00,possible
+217,Rattlesnake Creek,four (V),150-250,10% of SF Eel @ Leggett,roadside creeking,Bear creek falls,0-2,5 (12),"82, 75, 63, 150, 125","Eel, SF",yes,yes,,yes,,yes,,118,198,105,Highway 101 Bridge (1358'),"39.8227, -123.5658",Highway 1 Bridge (749'),"39.8639, -123.7216",2:30:00,1:45:00,15,10.5,0:15:00,no
+226,NF Eel Wildnerness,four (V),1200+,50% of Van Duzen @ Bridgeville,wilderness goods,Kettenpom Store,0-4,22,40 average,"Eel, NF",yes,yes,,yes,yes,yes,,122,204,210,Salt Creek (1880'),"40.1303, -123.3674",Mina Road (1017'),"39.9376, -123.3499",7:00:00,3:30:00,70,24,1:10:00,no
+231,Upper MF Eel,four (V),1200-2000,MF Eel @ Dos Rios,wilderness classic,bring snakebite kit,5-Feb,23,102 average,"Eel, Mf",,yes,,,yes,yes,,125,212,200,Fern Point (3800'),"40.0146, -123.1103",Highway 162 Bridge (1463'),"39.8270, -123.0863",8:50:00,3:20:00,110,25,1:50:00,yes
+243,Upper Main Eel,four (V),600-1200,? MF Eel @ Dos Rios,"wild, remote",Upper put-in,2-Jan,15 (+6 on lake),82 average,Eel,yes,yes,,yes,yes,yes,,130,220,240,M1 Road Bridge (3046'),"39.5389, -122.8603",Sunset Campground,"39.4393, -122.9389",6:30:00,4:00:00,50,16.5,0:50:00,no
+247,SF Chetco Gorge,four (V),500-1000,20% of Chetco @ Brookings,semi-remote gorge,steelhead haven,0-1 wood,7.5,"49, 65, 46, 40, 52, 85, 60, 26",Chetco,yes,yes,,yes,yes,yes,,132,224,150,West Coon Creek (554'),"42.1460, -124.0530",South Fork Road (131'),"42.1867, -124.1336",4:00:00,2:30:00,30,15,0:30:00,0.25
+250,Illinois WIlderness,four (V),2000-4000,Illinois @ Kerby,wilderness classic,Awesome surf above 4k,0-1,32,23 average,"Rogue, IR",yes,yes,,yes,yes,yes,,133,226,210,Miami Bar (879'),"42.3541, -123.7843",Oak Flat Campground (141'),"42.5165, -124.0397",15:00:00,3:30:00,230,150 (one way),3:50:00,no
+29,MF Smith Above Falls,four to five,300-750,fraction of Smith @ Jed,Remote steep creek,Broken Rib Botanical Area,no,3,"203, 236, 210","Smith, MF",yes,yes,,yes,,yes,,13,21,135,Knopki creek road,"41.9223, -123.6857",above falls (SCOUT!),"41.9291, -123.7320",3:15:00,2:15:00,20,5,0:20:00,no
+36,Lower Goose Creek,four to five,750+,10% of Smith @ Jed,"remote, fun",local gem,no,4.9,"68, 92, 106, 113, 46","Smith, SF",yes,yes,,yes,,yes,,16,24,125,End of Saddle road,"41.6601, -123.8913",Steven's Bridge,"41.6920, -123.9285",2:35:00,2:05:00,10,5,0:10:00,3mi
+37,Upper Goose Creek,four to five,400-750,10% of Smith @ Jed,remote fun creek,early start,0-2,11.5,"98, 62, 107, 76, 181, 105, 30","Smith, SF",yes,yes,,yes,,yes,,17,25,125,Forks of Goose,"41.5922, -123.8767",Steven's Bridge,"41.6920, -123.9285",3:20:00,2:05:00,25,10,0:25:00,6mi
+61,Scott River Canyon,four to five,2000+,Scott River nr Fort Jones,roadside classic,fun play @ 2000,no,14,"60 average, 80 first 4mi",Scott,yes,yes,,,yes,yes,,29,55,190,Indian Scotty Campground,"41.6332, -123.0837",Scott Bar Bridge,"41.7427, -123.0027",4:25:00,3:10:00,25,14.5,0:25:00,no
+76,Upper Red Cap Creek,four to five,200-500,Salmon @ Somes Bar,wilderness gorge,poison oak on hike in,0-3,6.5,"147, 259, 214, 90, 88, 129, 53",Klamath,yes,yes,,yes,yes,yes,,41,75,180,Red Cap Central mine,"41.2027, -123.5242",First Bridge,"41.2428, -123.5443",5:30:00,3:00:00,50,12,0:50:00,2mi
+92,Nordheimer Run,four to five,3500-7000,Salmon @ Somes Bar,pool-drop classic,rattlers @ cascade,no,7,38 average,Salmon,yes,yes,,yes,yes,yes,,50,91,120,Nordheimer Campground,"41.2974, -123.3599",Butler Creek Access,"41.3374, -123.4087",2:45:00,2:00:00,15,7,0:15:00,no
+97,Bridge Creek,four to five,2050-3500,Salmon @ Somes Bar,wilderness creeking,adventure time,yes,3 (11),"336, 448, 529",Salmon,,yes,,,yes,yes,,53,95,110,Near Halfmoon Creek,"41.4713, -123.3684",Brannon's Bar,"41.3738, -123.4321",6:50:00,1:50:00,100,2mi hard hike,1:40:00,"2mi, hard"
+102,NF Lower Salmon,four to five,5000-9200,Salmon @ Somes Bar,nonstop fun,skiing at Callahan,0-1,11.25,70 average,"Salmon, NF",yes,yes,,yes,yes,yes,,55,100,120,Little North Fork (1976'),"41.3200, -123.1788",Forks of Salmon (1194'),"41.2575, -123.3294",3:15:00,2:00:00,25,8,0:25:00,no
+107,SF Gorge,four to five,1550-5000,Salmon @ Somes Bar,"steep, narrow, classic",limestone bluffs,no,5.5,"30, 56, 105, 82, 108, 39","Salmon, SF",yes,yes,,yes,yes,yes,,58,103,160,Mining Claim (2133'),"41.1428, -123.1899",Matthews Creek (1713'),"41.1884, -123.2173",3:25:00,2:40:00,15,6,0:15:00,no
+120,Burnt Ranch Gorge,four to five,1000-4500,Trinity @ Cedar Flat,classic gorge,Cali Burn-fest,no,9.5,43 average 70 in 4 mile gorge,Trinity,yes,yes,yes,yes,yes,yes,yes,66,116,60,Cedar Flat (954'),"40.7899, -123.4389",Hawkins Bar River Access,"40.8734, -123.5278",1:45:00,1:00:00,15,9,0:15:00,optional
+122,New River Gorge,four to five,500-1000,Estimator: Salmon @ Somes Bar,wilderness gorge,scary when high,0-2,8.5,64 average; 131 & 102 in forge,"Trinity, New",yes,yes,,,yes,yes,,67,119,60,Panther Creek (1173'),"40.9078, -123.4266",Grey's Falls (630'),"40.8579, -123.4929",3:15:00,1:00:00,45,20,0:45:00,short downhill
+137,North Fork Trinity,four to five,500-1000,NF Trinity @ Helena,wilderness classic,100 rapids,4-Feb,14,104 average,"Trinity, NF",yes,yes,,,yes,yes,,75,130,95,Hobo Gulch (2877'),"40.9281, -123.1548",East Fork (1392'),"40.7842, -123.1307",4:05:00,1:35:00,50,14,0:50:00,no
+161,Indian Creek,four to five,250+,Indian Creek,roadside goods,lunker browns at the mouth,0-3,3.7,"314, 199, 148, 82",Trinity,yes,yes,,,yes,yes,,86,150,140,Cannonball Flat (3000'),"40.5916, -122.7924",Indian Creek Road (2257'),"40.6004, -122.8522",2:50:00,2:20:00,10,3,0:10:00,no
+170,Upper Stuart Fork,four to five,800-1200,Trinity above Coffee Creek,Wilderness goods,mining history,0-3,7,"243, 201, 213, 182, 142, 125, 68","Trinity, AD",yes,yes,,,yes,yes,,90,155,140,Deer Creek (3860'),"40.9511, -122.9481",Bridge Camp (2686'),"40.8729, -122.9176",10:05:00,2:20:00,155,7mi hike,2:35:00,7mi
+171,Swift Creek,four to five,200-500,Trinity above Coffee Creek,"weird, but fun",hydraulic mining,0-3,7,"290, 254, 178, 200, 199, 181, 173","Trinity, AD",yes,yes,,,yes,yes,,91,156,160,Swift Creek Trail (3967'),"40.9734, -122.8000",Highway 3 Bridge (2485'),"41.0834, -122.7058",4:25:00,2:40:00,35,6,0:35:00,short downhill
+181,Brandy Creek,four to five,100-200,no,steep creek,mountain bike shuttle,wood,2,359 average,"Trinity, AD",yes,yes,,yes,yes,yes,,97,164,165,Brandy Creek Trailhead (1998'),"40.6000, -122.5947",Brandy Creek Road (1280'),"40.6128, -122.5747",3:15:00,2:45:00,10,3,0:10:00,optional
+186,NF Cottonwood Creek,four to five,300-800,dreamflows,steep creek,don't go low,3-Jan,8.5,"105, 132, 135, 81, 75, 47, 92, 95, 52",Sacramento,yes,yes,,,yes,yes,,100,168,180,Sunny Hill Road (1654'),"40.4746, -122.7046",Ono (840'),"40.4712, -122.6229",4:00:00,3:00:00,20,9,0:20:00,no
+190,NF Mad,four to five,800-1500,no,local fix,Timber Property Issues,0-2,5,"43, 75, 82, 138, 13",Mad,yes,yes,,,,yes,,102,173,15,Highway 299 Bridge (479'),"40.9156, -123.9149",Korbel (128'),"40.8704, -123.9624",0:45:00,0:15:00,10,8,0:10:00,short downhill
+194,Swinging Bridge,four to five,1000-3000,Mad @ Arcata,coast classic,summer swim hole,0-3,10.5,38 average,Mad,yes,yes,,,yes,yes,,104,176,50,Jack Shaw Road (722'),"40.6627, -123.8388",Butler Valley Road (322'),"40.7642, -123.8889",3:50:00,0:50:00,60,21,1:00:00,short downhill
+206,Goat Rock,four to five,800-1400,Van Duzen @ Bridgeville,roadside gnar,high water spectacle,0-1,4,"36, 32, 96, 42","Eel, VD",yes,yes,,yes,yes,yes,,110,185,70,Little Larabee Creek (636'),"40.4684, -123.8019",Golden Gate Drive (430'),"40.4673, -123.8347",1:40:00,1:10:00,10,3,0:10:00,no
+209,Little Van Duzen,four to five,2000-3500,Van Duzen @ Bridgeville,fun steep creek,bloody run,0-1,3.25,"26, 118, 158, 39","Eel, VD",yes,yes,,yes,,yes,,112,188,90,Highway 36 Bridge (2300'),"40.4893, -123.6257",Van Duzen River (1959'),"40.4852, -123.6592",2:00:00,1:30:00,10,3.5,0:10:00,1mi out
+213,Larabee Creek,four to five,2000-4000,Van Duzen @ Bridgeville,wilderness creeking,"star early, game on",4-Feb,18,54 average,Eel,yes,yes,,yes,yes,yes,,115,194,60,Alderpoint Road (1066'),"40.3344, -123.6798",Holmes Road (102'),"40.4168, -123.9341",5:00:00,1:00:00,80,45,1:20:00,no
+218,Rattlesnake Creek,four to five,250-500+,10% of SF Eel @ Leggett,roadside creeking,Bear creek falls,0-2,5 (12),"82, 75, 63, 150, 125","Eel, SF",yes,yes,,yes,,yes,,118,198,105,Highway 101 Bridge (1358'),"39.8227, -123.5658",Highway 1 Bridge (749'),"39.8639, -123.7216",2:30:00,1:45:00,15,10.5,0:15:00,no
+244,Upper Main Eel,four to five,1200+,? MF Eel @ Dos Rios,"wild, remote",Upper put-in,2-Jan,15 (+6 on lake),82 average,Eel,yes,yes,,yes,yes,yes,,130,220,240,M1 Road Bridge (3046'),"39.5389, -122.8603",Sunset Campground,"39.4393, -122.9389",6:30:00,4:00:00,50,16.5,0:50:00,no
+248,SF Chetco Gorge,four to five,1000-1500,20% of Chetco @ Brookings,semi-remote gorge,steelhead haven,0-1 wood,7.5,"49, 65, 46, 40, 52, 85, 60, 26",Chetco,yes,yes,,yes,yes,yes,,132,224,150,West Coon Creek (554'),"42.1460, -124.0530",South Fork Road (131'),"42.1867, -124.1336",4:00:00,2:30:00,30,15,0:30:00,0.25
+251,Illinois WIlderness,four to five,4000-10000,Illinois @ Kerby,wilderness classic,Awesome surf above 4k,0-1,32,23 average,"Rogue, IR",yes,yes,,yes,yes,yes,,133,226,210,Miami Bar (879'),"42.3541, -123.7843",Oak Flat Campground (141'),"42.5165, -124.0397",15:00:00,3:30:00,230,150 (one way),3:50:00,no
+8,Hardscrabble Creek,four to five (P),150-400,estimate of Smith @ Jed,Remote steep creek,boat abuser,"2+, wood",6.5,"312, 141, 161, 207, 192, 160, 46","Smith, MF",yes,yes,,yes,,yes,,4,6,105,Altaville Mine,"41.9087, -124.0334",Highway 199,"41.8388, -124.0267",3:15:00,1:45:00,30,8,0:30:00,downhill to creek
+53,Clear Creek,four to five (P),500+,Indian Cr @ Happy Camp,wilderness goods,Siskiyou Biodiversity,1,3,"82, 82, 137",Klamath,yes,yes,,yes,yes,yes,,24,46,160,No Man's Trailhead,"41.7293, -123.5347",Slippery View River Access,"41.7206, -123.5027",4:10:00,2:40:00,30,2mi & 1mi hike,0:30:00,yes
+224,Split Rock,four to five (V+),800-1800,no,spectacular & dangerous,scout carefully,0-5,6.5 (30),"33, 46, 128, 105, 82, 31, 18","Eel, NF",yes,yes,,,yes,yes,,121,202,115,Mina Road (1017'),"39.9376, -123.3499",Alderpoint (276'),"40.1665, -123.6010",6:55:00,1:55:00,100,40,1:40:00,no
+232,Upper MF Eel,four to five (V+),2000+,MF Eel @ Dos Rios,wilderness classic,bring snakebite kit,5-Feb,23,102 average,"Eel, Mf",,yes,,,yes,yes,,125,212,200,Fern Point (3800'),"40.0146, -123.1103",Highway 162 Bridge (1463'),"39.8270, -123.0863",8:50:00,3:20:00,110,25,1:50:00,yes
+127,Upper New River,four to five-,1000+,Estimator: Salmon @ Somes Bar,roadside goods,local favorite,no,4,"68, 104, 60, 40","Trinity, New",yes,yes,,,yes,yes,,69,122,130,Devil's Canyon (1611'),"40.9629, -123.3490",Denny Campground (1339'),"40.9331, -123.3933",2:40:00,2:10:00,10,4,0:10:00,no
+125,Denny Run,four-,1200+,Estimator: Salmon @ Somes Bar,semi-roadside play,Scout takeout before putting on this run!,no,3.5,47 average,"Trinity, New",yes,yes,,,yes,yes,,68,121,120,Denny Campground (1339'),"40.9331, -123.3933",Panther Campground (1173'),"40.9078, -123.4266",2:30:00,2:00:00,10,4,0:10:00,no
+177,Upper Trinity,four- (IV),2000+,Trinity above Coffee Creek,roadside scenic fun,skiing at scott mountain,no,10.5,68 average,"Trinity, AD",yes,yes,,,yes,yes,,94,160,160,Tangle Blue Creek (3274'),"41.2369, -122.6442",Trinity River Campground (2559'),"41.1062, -122.7066",3:25:00,2:40:00,15,12,0:15:00,no
+39,South Kelsey Run,four- (V-),500-1500,25% of Smith @ Jed,wilderness gorge,hike and huck put-in,0-1,8,"62, 69, 115, 82, 33, 45, 23","Smith, SF",yes,yes,,yes,yes,yes,,18,26,125,Buck Creek Camp (1020'),"41.6508, -123.8455",Steven's Bridge,"41.6920, -123.9285",3:05:00,2:05:00,20,6,0:20:00,2mi
+246,Chetco Gorge,four- (V),4000-10000,Chetco @ Brookings,scenic beauty,lower put-in,0-1,10,"24 average, mile 7 is 50",Chetco,yes,yes,,yes,yes,yes,,131,223,150,Tolman Ranch (371'),"42.2700, -124.0871",South Fork Road (131'),"42.1867, -124.1336",4:15:00,2:30:00,35,12,0:35:00,no
+4,Oregon hole Gorge,four+,1500-3000,60% of Smith @ Jed,roadside gorge,Youtube Paul Gamache,no,2.4,"40 average, 70 gorge","Smith, MF",yes,yes,,yes,yes,yes,,2,4,100,Oregon hole gorge,"41.8219, -124.0347",forks river access,"41.7987, -124.0558",1:55:00,1:40:00,5,2.4,0:05:00,no
+12,NF Smith,four+,4000+,30% of Smith @ Jed,wilderness classic,local favorite,no,14,40 average,"Smith, NF",yes,yes,,yes,,yes,,5,8,110,Major Moore's,"41.9821, -123.9604",steel pipe,"41.8480, -123.9686",5:50:00,1:50:00,80,22,1:20:00,no
+14,Diamond Creek,four+,14000-40000,Smith @ Jed,wilderness play,4wd'll getcha there,no,4 (15),"96, 83, 110, 120","Smith, NF",yes,yes,,yes,,yes,,6,10,110,diamond falls,"41.9768, -123.9073",steel pipe,"41.8480, -123.9686",5:35:00,1:50:00,75,35 (one way),1:15:00,no
+18,Baldface Creek,four+,6000-12000,Smith @ Jed,wilderness,4wd'll getcha there,no,6.5 (22),"112, 95, 151, 131, 131, 109, 29","Smith, NF",yes,yes,,yes,,yes,,8.5,14,110,Frantz Meadow,"42.0665, -123.8975",steel pipe,"41.8480, -123.9686",5:50:00,1:50:00,80,26 (one way),1:20:00,6mi on road
+31,SF Gorge,four+,800-1500,40% of Smith @ Jed,pool-drop gorge,old slalom site,no,1.6,60,"Smith, SF",yes,yes,,yes,yes,yes,,14,22,100,Craig's Beach,"41.7931, -124.0267",SF Road Bridge,"41.7975, -124.0548",1:55:00,1:40:00,5,1.6,0:05:00,no
+35,Lower Goose Creek,four+,300-750,10% of Smith @ Jed,"remote, fun",local gem,no,4.9,"68, 92, 106, 113, 46","Smith, SF",yes,yes,,yes,,yes,,16,24,125,End of Saddle road,"41.6601, -123.8913",Steven's Bridge,"41.6920, -123.9285",2:35:00,2:05:00,10,5,0:10:00,3mi
+63,Kidder Creek,four+,150-500,Scott River nr Fort Jones,introductory creek,Etna Brewery,no,3,"200, 200, 134",Scott,yes,yes,,,yes,yes,,31,58,235,Babs Fork,"41.5012, -123.0265",Kindig Camp,"41.5198, -122.9908",7:25:00,3:55:00,70,3mi hike,1:10:00,3mi
+81,Supply Creek,four+,100-400,no,roaside creek,upper section,1,2-Jan,207,Trinity,yes,yes,,,yes,yes,,44,79,60,Bair Road Bridge,"41.0411, -123.6966",Pine Creek Road,"41.0516, -123.6870",1:30:00,1:00:00,10,2,0:10:00,no
+89,Butler Run,four+,2800-7000,Salmon @ Somes Bar,semi-roadside play,dogs spread poison oak,no,4,53 average,Salmon,yes,yes,,yes,yes,yes,,49,90,110,Butler Creek Access,"41.3374, -123.4087",Brannon's Bar,"41.3738, -123.4321",2:20:00,1:50:00,10,4,0:10:00,no
+94,Wooley Creek,four+,1550-3500,Salmon @ Somes Bar,wilderness goods,Lars' favorite,no,5,97 average,Salmon,yes,yes,,yes,yes,yes,,51,93,110,Wooley Camp,"41.3762, -123.4319",Brannon's Bar,"41.3738, -123.4321",6:50:00,1:50:00,100,5mi hike,1:40:00,5mi
+96,Steinacher Creek,four+,2800+,Salmon @ Somes Bar,hike and huck,raft and huck?,no,0.75,30,Salmon,yes,yes,,yes,yes,yes,,52,94,120,Million Dollar Bridge,"41.3780, -123.4214",Upstream of Salmon River,"41.3820, -123.4117",3:15:00,2:00:00,25,1mi hike,0:25:00,1mi
+117,Upper Willow Creek,four+,100-33,Estimator: Redwood @ Blue Lake,roadside creeking,Old Dutchman's mine,possible wood,1.5,"271, 72","Trinity, WC",yes,yes,,,,yes,,64,114,40,Milepost 32.03,"40.9069, -123.7275",East Fork Campground,"40.9082, -123.7075",0:55:00,0:40:00,5,1,0:05:00,steep hill to creek
+126,Upper New River,four+,400-1000,Estimator: Salmon @ Somes Bar,roadside goods,local favorite,no,4,"68, 104, 60, 40","Trinity, New",yes,yes,,,yes,yes,,69,122,130,Devil's Canyon (1611'),"40.9629, -123.3490",Denny Campground (1339'),"40.9331, -123.3933",2:40:00,2:10:00,10,4,0:10:00,no
+128,New River Wilderness,four+,450-1000,Estimator: Salmon @ Somes Bar,boulder gardens,something new,possible wood,6,"111, 84, 15, 66, 59, 70","Trinity, New",yes,yes,,,yes,yes,,70,123,135,Slide Creek (2020'),"41.0294, -123.3493",Devil's Canyon (1611'),"40.9629, -123.3490",4:00:00,2:15:00,35,3.5,0:35:00,2mi
+136,"Todd's Cabin, EFNFT",four+,250+,15% of North Trin,quality creeking,NFT backup plan,wood,5.3,"103, 74, 117, 105, 65, 14","Trinity, NF",yes,yes,,,peak snowmelt,yes,,74,129,105,Todd's Cabin (2169'),"40.8821, -123.1262",Barney Gulch (1691'),"40.8209, -123.1238",3:15:00,1:45:00,30,10.3,0:30:00,no
+140,Canyon Creek,four+,500+,Subtract this from this for nearly exact flow,roadside fun,monastery in junction city,no,2.7,"76, 71, 45","Trinity, CC",yes,yes,,,yes,yes,,76,133,100,Large Flat,"40.7843, -123.0574",Powerhouse Road,"40.7548, -123.0590",1:55:00,1:40:00,5,2.5,0:05:00,no
+147,Three Bears,four+,4000+,SF Trinity @ Hyampom,Bread and butter classic,best bike shuttle,no,6.75,27 average,"Trinity, SF",yes,yes,,yes,yes,yes,,79,137,70,Surprise Falls (735'),"40.7885, -123.5583",Low Water Bridge (551'),"40.8351, -123.5679",1:55:00,1:10:00,15,6,0:15:00,no
+185,Clear Creek Below Whiskeytown,four+ (V-),600-2000,Clear Creek @ Igo,backyard stash,CVP,0-1,7.5,44 average,Sacramento,yes,yes,yes,yes,,yes,yes,99,167,180,NEED Camp Road (915'),"40.5803, -122.5373",Clear Creek Road (587'),"40.4942, -122.4983",4:30:00,3:00:00,30,15,0:30:00,no
+55,Elk Creek,four+ (V),750+,Indian Cr @ Happy Camp,semi-roadside fun,Apres Paddle Pizza,0-3,12.5,"164, 111, 115, 82, 85, 82, 116, 68, 36, 102, 30, 80, 28",Klamath,,yes,,,yes,yes,,25,48,150,Sulphur Springs Trailhead,"41.6448, -123.3077",Curly Jack Road,"41.7805, -123.3933",4:45:00,2:30:00,45,11,0:45:00,no
+101,NF Lower Salmon,four+ (V),2800-5000,Salmon @ Somes Bar,nonstop fun,skiing at Callahan,0-1,11.25,70 average,"Salmon, NF",yes,yes,,yes,yes,yes,,55,100,120,Little North Fork (1976'),"41.3200, -123.1788",Forks of Salmon (1194'),"41.2575, -123.3294",3:15:00,2:00:00,25,8,0:25:00,no
+112,Lower Willow Creek,four+ (V),200-600,Estimator: Redwood @ Blue Lake,Boofalicious!,creekside disc golf,no,1.9,"214, 63","Trinity, WC",yes,yes,,yes,yes,yes,,61,110,45,Boise Creek Campground (696'),"40.9450, -123.6578",Big Rock River Access,"40.9468, -123.6333",1:00:00,0:45:00,5,2,0:05:00,0.5mi downhill
+142,Bridge to Bridge,four+ (V),350+,Subtract this from this for nearly exact flow,semi-roadside goods,historic mining debris,possible wood,3.5,"178, 155, 128, 56","Trinity, CC",yes,yes,,,yes,yes,,77,134,115,Ripstein Campground,"40.8763, -123.0290",8 Mile Bridge,"40.8359, -123.0498",2:25:00,1:55:00,10,3.5,0:10:00,no
+52,Clear Creek,four+ (V+),350-500,Indian Cr @ Happy Camp,wilderness goods,Siskiyou Biodiversity,1,3,"82, 82, 137",Klamath,yes,yes,,yes,yes,yes,,24,46,160,No Man's Trailhead,"41.7293, -123.5347",Slippery View River Access,"41.7206, -123.5027",4:10:00,2:40:00,30,2mi & 1mi hike,0:30:00,yes
+212,Alderpoint to Scotia,one to two,1600-20000+,Eel @ Fort Seward,scenic beginner run,canoes yes,2 low water bridges,54,4 average,Eel,yes,yes,,yes,yes,yes,,114,192,45,Alderpoint (276'),"40.1665, -123.6010",Scotia Ballpark (56'),"40.4759, -124.1077",4:45:00,0:45:00,80,variable,1:20:00,no
+67,Lower Klamath,one to two-,2000+,Klamath @ Klamath Glen,river touring,jet boats?,no,27,3.5 average,Klamath,yes,yes,yes,yes,yes,yes,yes,34,66,65,Cappell Creek,"41.2812, -123.8236",Klamath Glen,"41.5055, -123.9963",7:05:00,1:05:00,120,54.5,2:00:00,no
+1,Jedidiah Smith,one-two,600-6000,Smith @ Jed,"driftboat, scenic",Stout Grove,no,13,8 average,Smith,yes,yes,yes,yes,yes,yes,,1,3,105,forks river access boat ramp,"41.8025, -124.0852",public fishing access,"41.8904, -124.1481",2:45:00,1:45:00,20,11,0:20:00,no
+187,Town Run,one+,350-1000,Mad @ Arcata,"easy, close",Mad River Brewery,no,12.5,6 average,Mad,yes,yes,,yes,yes,yes,,101,172,15,Hatchery Road (79'),"40.8549, -123.9915",Mad River Boat Ramp (10'),"40.9290, -124.1300",1:45:00,0:15:00,30,11,0:30:00,no
+7,Gasquet Run,three,5000+,60% of Smith @ Jed,roadside beginner run,fun play @ 3000 on Smith @ Jed,no,5.4,23 average,"Smith, MF",yes,yes,,yes,yes,yes,,3,5,100,steel pipe,"41.8480, -123.9686",Oregon hole gorge,"41.8219, -124.0347",2:10:00,1:40:00,10,5.4,0:10:00,no
+33,Steven's Bridge,three,800-3500,40% of Smith @ Jed,scenic fun run,classic class III,no,12,28 average,"Smith, SF",yes,yes,,yes,yes,yes,,15,23,100,Steven's Bridge,"41.6920, -123.9285",Craig's Beach,"41.7931, -124.0267",2:40:00,1:40:00,20,12,0:20:00,no
+42,The Ikes,three,1600-3500,Klamath @ Orleans,roadside bigwater play,blue-green algae?,no,5.6,20 average,Klamath,yes,yes,yes,yes,yes,yes,yes,20,37,100,Salmon River Confluence,"41.3773, -123.4943",Dolan's Bar,"41.3187, -123.5258",2:25:00,1:40:00,15,6,0:15:00,no
+48,Happy Camp to Green Riffle,three,1600-10000,Klamath @ Orleans,roadside intermediate run,World Renewal Ceremony,no,39,12.5 average,Klamath,yes,yes,yes,yes,yes,yes,yes,22,42,110,Indian Creek (1043'),"41.7897, -123.3790",Green Riffle (554'),"41.4329, -123.5062",4:05:00,1:50:00,45,33,0:45:00,no
+71,Orleans to Weitchpec,three,2000-14000,Klamath @ Orleans,roadside play run,4wd'll getcha there,no,16,10.5 average,Klamath,yes,yes,yes,yes,yes,yes,yes,38,71,80,Orleans,"41.3025, -123.5350",Weitchpec,"41.1878, -123.7124",2:20:00,1:20:00,20,16,0:20:00,no
+75,Lower Red Cap Creek,three,~4500,"Not really, best guess from Salmon @ Somes Bar",scenic beginner run,wine tasting,no,4 (6),"79, 62, 54, 39, 78",Klamath,yes,yes,,yes,yes,yes,,40,74,85,Road 10N02 Bridge,"41.2428, -123.5443",Big Bar River Access,"41.2519, -123.6348",2:55:00,1:25:00,30,12,0:30:00,no
+87,Lower Salmon,three,3500+,Salmon @ Somes Bar,beginner enjoyment,salmon river outpost,no,4.5,26 average,Salmon,yes,yes,yes,yes,yes,yes,,48,89,85,Brannon's Bar,"41.3738, -123.4321",Klamath Salmon Confluence,"41.3773, -123.4943",1:55:00,1:25:00,10,4.5,0:10:00,no
+105,Methodist Run,three,1550-5000,Salmon @ Somes Bar,friendly roadside play,respect private property,no,6.5,43 average,"Salmon, SF",yes,yes,,yes,yes,yes,,57,102,120,Methodist Creek (1476'),"41.2224, -123.2494",Forks of Salmon (1194'),"41.2575, -123.3294",2:45:00,2:00:00,15,6,0:15:00,no
+131,Pigeon Point,three,400-3000,Trinity @ Cedar Flat,classic class III,Serendipity Snapshots,no,6.5,21 average,Trinity,yes,yes,yes,yes,yes,yes,yes,72,127,85,Pigeon Point Campground,"40.7673, -123.1325",Big Flat River Access,"40.7410, -123.2169",1:55:00,1:25:00,10,6,0:10:00,no
+133,EFNF Trinity,three,100-250,15% of North Trin,beginner creeking,Robin's run,no,3.6,82 average,"Trinity, NF",yes,yes,,,peak snowmelt,yes,,73,128,95,Barney Gulch (1691'),"40.8209, -123.1238",NF Confluence (1392'),"40.7812, -123.1287",2:05:00,1:35:00,10,3,0:10:00,no
+163,Lewiston to Steel Bridge,three,3000+,Trinity @ Limekiln,gentle float,fish on!,no,11,12 average,Trinity,yes,yes,yes,yes,,,yes,87,151,130,Old Bridge (1809'),"40.7078, -122.8090",Steel Bridge (1672'),"40.6746, -122.9192",3:10:00,2:10:00,20,12,0:20:00,no
+164,The Weir Hole,three,450-2000,Trinity @ Lewiston,fun or crazy,gravel chucking spot,no,0,8,Trinity,yes,yes,yes,yes,,,yes,88,152,135,Weir Hole,"40.7189, -122.8031",Weir Hole,"40.7189, -122.8031",2:15:00,2:15:00,0,0,0:00:00,15'
+167,Lower Stuart Fork,three,600-1000,Trinity above Coffee Creek,roadside play run,bear's breath,no,2.5,89 average,"Trinity, AD",yes,yes,,,yes,yes,,89,154,130,Bridge Camp (2686'),"40.8729, -122.9176",Below Lodge (2462'),"40.8556, -122.8863",2:40:00,2:10:00,10,3,0:10:00,no
+201,Grizzly Creek,three,800-2500,Van Duzen @ Bridgeville,roadside play run,"cruzin, to the duzen",no,3,24 average,"Eel, VD",yes,yes,,,,yes,,108,182,55,Highway 36 Bridge (367'),"40.4825, -123.8940",Low-water Bridge (295'),"40.4762, -123.9351",1:10:00,0:55:00,5,2.5,0:05:00,no
+223,Dos Rios to Alderpoint,three,3000+,Eel @ Fort Seward,classic multiday,afternoon wind,no,46,13 average,Eel,yes,yes,,yes,yes,yes,,120,200,115,Dos Rios (860'),"39.7183, -123.3533",Alderpoint (276'),"40.1665, -123.6010",7:55:00,1:55:00,120,88,2:00:00,no
+234,Outlet Run,three,2000-5000,? MF Eel @ Dos Rios,roadside play run,open canoes :),no,6,22 average,Eel,yes,yes,,yes,peak snowmelt,yes,,126,215,155,Outlet Creek (994'),"39.6269, -123.3441",Above MF (860'),"39.7078, -123.3550",3:05:00,2:35:00,10,6,0:10:00,no
+240,Pillsbury Run,three,300-800,? MF Eel @ Dos Rios,semi-roadside goods,Crabtree hot springs,no,7,26 average,Eel,yes,yes,,yes,yes,yes,yes,129,218,220,Below Lake Pillsbury (1693'),"39.4107, -122.9797",Trout Creek Campground (1512'),"39.3744, -123.0650",4:55:00,3:40:00,25,10,0:25:00,no
+21,Patrick Creek Run,three (IV-),800-1500,25% of Smith @ Jed,roadside play run,thanksgiving at the lodge?,no,6,64 average,"Smith, MF",yes,yes,,yes,yes,yes,,9,16,115,patrick creek campground,"41.8719, -123.8450",panther flat campground,"41.8429, -123.9329",2:25:00,1:55:00,10,6,0:10:00,no
+145,Three Bears,three (IV-),750-1500,SF Trinity @ Hyampom,Bread and butter classic,best bike shuttle,no,6.75,27 average,"Trinity, SF",yes,yes,,yes,yes,yes,,79,137,70,Surprise Falls (735'),"40.7885, -123.5583",Low Water Bridge (551'),"40.8351, -123.5679",1:55:00,1:10:00,15,6,0:15:00,no
+176,Upper Trinity,three (IV-),800-2000,Trinity above Coffee Creek,roadside scenic fun,skiing at scott mountain,no,10.5,68 average,"Trinity, AD",yes,yes,,,yes,yes,,94,160,160,Tangle Blue Creek (3274'),"41.2369, -122.6442",Trinity River Campground (2559'),"41.1062, -122.7066",3:25:00,2:40:00,15,12,0:15:00,no
+204,Yager Creek,three (IV-),1000-2000,Van Duzen @ Bridgeville,stealthy goods,Taco Loco in Fortuna,no,15-Jun,45 average,"Eel, VD",yes,yes,,,,yes,,109,184,40,Kneeland Road,"40.5746, -124.0118",Highway 36 Bridge,"40.5378, -124.0637",2:25:00,0:40:00,35,see note,0:35:00,maybe
+34,Steven's Bridge,three (IV),3500+,40% of Smith @ Jed,scenic fun run,classic class III,no,12,28 average,"Smith, SF",yes,yes,,yes,yes,yes,,15,23,100,Steven's Bridge,"41.6920, -123.9285",Craig's Beach,"41.7931, -124.0267",2:40:00,1:40:00,20,12,0:20:00,no
+43,The Ikes,three (IV),3500-10000,Klamath @ Orleans,roadside bigwater play,blue-green algae?,no,5.6,20 average,Klamath,yes,yes,yes,yes,yes,yes,yes,20,37,100,Salmon River Confluence,"41.3773, -123.4943",Dolan's Bar,"41.3187, -123.5258",2:25:00,1:40:00,15,6,0:15:00,no
+103,Idylwild,three (IV),3500-7900,Salmon @ Somes Bar,roadside play run,Brrr...,no,8.5,78 average,"Salmon, NF",yes,yes,,yes,yes,yes,,56,101,170,Mule Bridge (2815'),"41.3585, -123.0752",Sawyers Bar (2149'),"41.3001, -123.1383",3:50:00,2:50:00,20,9,0:20:00,no
+197,Pilot Run,three (IV),500-2000,Call HBMWD for release schedule,remote class III,4wd shuttle,no,11.5,32 average,Mad,yes,yes,,,,yes,yes,106,180,130,Highway 36 (2457'),"40.4495, -123.5028",Bear Creek Road (2087'),"40.5441, -123.6216",4:25:00,2:10:00,45,21,0:45:00,no
+229,Recon Run,three (IV),750-2000,MF Eel @ Dos Rios,semi-roadside fun,friendly locals,1,2.5,45 average,"Eel, MF",yes,yes,,yes,yes,yes,,124,211,200,End of Road (1575'),"39.8507, -123.0552",Highway 162 Bridge (1463'),"39.8270, -123.0863",3:50:00,3:20:00,10,4.5,0:10:00,1mi down
+245,Chetco Gorge,three (IV+),800-4000,Chetco @ Brookings,scenic beauty,lower put-in,0-1,10,"24 average, mile 7 is 50",Chetco,yes,yes,,yes,yes,yes,,131,223,150,Tolman Ranch (371'),"42.2700, -124.0871",South Fork Road (131'),"42.1867, -124.1336",4:15:00,2:30:00,35,12,0:35:00,no
+228,Middle Fork Eel,three (V-),2000+,MF Eel @ Dos Rios,wilderness classic,Black Butte Store Shuttles,0-2,33,18 average,"Eel, MF",yes,yes,,yes,yes,yes,,123,208,160,Black Butte River (1450'),"39.8270, -123.0863",Dos Rios (860'),"39.7183, -123.3533",4:55:00,2:40:00,45,26,0:45:00,no
+252,MF Applegate,three (V),600-1500,Applegate @ Copper,roadside fun,creek potential,1,3.5,105 average,"Rogue, AR",yes,yes,,,yes,yes,,134,230,235,Whiskey Creek (2362'),"41.9734, -123.1815",Applegate Road (1995'),"42.0112, -123.1534",4:55:00,3:55:00,20,4,0:20:00,no
+10,NF Smith,three to four,1000-2000,30% of Smith @ Jed,wilderness classic,local favorite,no,14,40 average,"Smith, NF",yes,yes,,yes,,yes,,5,8,110,Major Moore's,"41.9821, -123.9604",steel pipe,"41.8480, -123.9686",5:50:00,1:50:00,80,22,1:20:00,no
+13,Diamond Creek,three to four,8000-14000,Smith @ Jed,wilderness play,4wd'll getcha there,no,4 (15),"96, 83, 110, 120","Smith, NF",yes,yes,,yes,,yes,,6,10,110,diamond falls,"41.9768, -123.9073",steel pipe,"41.8480, -123.9686",5:35:00,1:50:00,75,35 (one way),1:15:00,no
+22,Patrick Creek Run,three to four,1500-5000,25% of Smith @ Jed,roadside play run,thanksgiving at the lodge?,no,6,64 average,"Smith, MF",yes,yes,,yes,yes,yes,,9,16,115,patrick creek campground,"41.8719, -123.8450",panther flat campground,"41.8429, -123.9329",2:25:00,1:55:00,10,6,0:10:00,no
+27,Knopki Gorges,three to four,400-750,<10% of Smith @ Jed,semi-roadside gorge,got pogies?,no,7.3,67 average,"Smith, MF",yes,yes,,yes,yes,yes,,12,20,120,bridge on knopki creek road,"41.9230, -123.7520",siskiyou gorge,"41.8782, -123.8277",2:45:00,2:00:00,15,8,0:15:00,no
+49,Happy Camp to Green Riffle,three to four,10000+,Klamath @ Orleans,roadside intermediate run,World Renewal Ceremony,no,39,12.5 average,Klamath,yes,yes,yes,yes,yes,yes,yes,22,42,110,Indian Creek (1043'),"41.7897, -123.3790",Green Riffle (554'),"41.4329, -123.5062",4:05:00,1:50:00,45,33,0:45:00,no
+72,Orleans to Weitchpec,three to four,14000+,Klamath @ Orleans,roadside play run,4wd'll getcha there,no,16,10.5 average,Klamath,yes,yes,yes,yes,yes,yes,yes,38,71,80,Orleans,"41.3025, -123.5350",Weitchpec,"41.1878, -123.7124",2:20:00,1:20:00,20,16,0:20:00,no
+104,Idylwild,three to four,7900+,Salmon @ Somes Bar,roadside play run,Brrr...,no,8.5,78 average,"Salmon, NF",yes,yes,,yes,yes,yes,,56,101,170,Mule Bridge (2815'),"41.3585, -123.0752",Sawyers Bar (2149'),"41.3001, -123.1383",3:50:00,2:50:00,20,9,0:20:00,no
+178,Coffee Creek,three to four,300-800,dreamflows,roadside continuous,burgers in trinity center,possible wood,9,115 average,"Trinity, AD",,yes,,,yes,yes,,95,161,160,North Fork Coffee Creek (3516'),"41.1213, -122.8353",Highway 3 Bridge (2485'),"41.0834, -122.7058",3:55:00,2:40:00,25,9,0:25:00,no
+198,Pilot Run,three to four,2000+,Call HBMWD for release schedule,remote class III,4wd shuttle,no,11.5,32 average,Mad,yes,yes,,,,yes,yes,106,180,130,Highway 36 (2457'),"40.4495, -123.5028",Bear Creek Road (2087'),"40.5441, -123.6216",4:25:00,2:10:00,45,21,0:45:00,no
+202,Grizzly Creek,three to four,2500-6000,Van Duzen @ Bridgeville,roadside play run,"cruzin, to the duzen",no,3,24 average,"Eel, VD",yes,yes,,,,yes,,108,182,55,Highway 36 Bridge (367'),"40.4825, -123.8940",Low-water Bridge (295'),"40.4762, -123.9351",1:10:00,0:55:00,5,2.5,0:05:00,no
+230,Recon Run,three to four,2000+,MF Eel @ Dos Rios,semi-roadside fun,friendly locals,1,2.5,45 average,"Eel, MF",yes,yes,,yes,yes,yes,,124,211,200,End of Road (1575'),"39.8507, -123.0552",Highway 162 Bridge (1463'),"39.8270, -123.0863",3:50:00,3:20:00,10,4.5,0:10:00,1mi down
+235,Outlet Run,three to four,5000-15000,? MF Eel @ Dos Rios,roadside play run,open canoes :),no,6,22 average,Eel,yes,yes,,yes,peak snowmelt,yes,,126,215,155,Outlet Creek (994'),"39.6269, -123.3441",Above MF (860'),"39.7078, -123.3550",3:05:00,2:35:00,10,6,0:10:00,no
+242,Pillsbury Run,three to four,2000+,? MF Eel @ Dos Rios,semi-roadside goods,Crabtree hot springs,no,7,26 average,Eel,yes,yes,,yes,yes,yes,yes,129,218,220,Below Lake Pillsbury (1693'),"39.4107, -122.9797",Trout Creek Campground (1512'),"39.3744, -123.0650",4:55:00,3:40:00,25,10,0:25:00,no
+249,Illinois WIlderness,three to four (IV+),800-2000,Illinois @ Kerby,wilderness classic,Awesome surf above 4k,0-1,32,23 average,"Rogue, IR",yes,yes,,yes,yes,yes,,133,226,210,Miami Bar (879'),"42.3541, -123.7843",Oak Flat Campground (141'),"42.5165, -124.0397",15:00:00,3:30:00,230,150 (one way),3:50:00,no
+156,Upper Hayfork,three to four (V-),1400-2000,SF Trinity @ Hyampom,semi-roadside gorge,limestone bridge,0-3,6,"58, 94, 141, 115, 102, 36","Trinity, SFHC",yes,yes,,,yes,yes,,84,145,170,Gemmil Gulch (3197'),"40.4306, -123.0571",East Fork Bridge (2651'),"40.4908, -123.0725",3:35:00,2:50:00,15,6,0:15:00,no
+174,EF Trinity,three to four (V-),500-1000,Trinity above Coffee Creek,remote scenic goods,A+ camping at takeout,0-1,10,"126, 89, 134, 141, 150, 115, 112, 120, 96, 83","Trinity, AD",yes,yes,,,yes,yes,,93,159,170,Mumbo Creek (3562'),"41.1230, -122.5593",Alpen Cellars (2396'),"41.0094, -122.6194",6:35:00,2:50:00,75,24,1:15:00,no
+225,NF Eel Wildnerness,three to four (V-),600-1200,50% of Van Duzen @ Bridgeville,wilderness goods,Kettenpom Store,0-4,22,40 average,"Eel, NF",yes,yes,,yes,yes,yes,,122,204,210,Salt Creek (1880'),"40.1303, -123.3674",Mina Road (1017'),"39.9376, -123.3499",7:00:00,3:30:00,70,24,1:10:00,no
+148,The Classic,three to four (V),800-2000,SF Trinity @ Hyampom,Wilderness goods,april is nice!,0-3,12,39 average,"Trinity, SF",yes,yes,,,yes,yes,,80,138,80,Big Slide Campground (1200'),"40.6648, -123.4980",Surprise Creek (735'),"40.7885, -123.5583",8:05:00,1:20:00,135,45,2:15:00,no
+150,Overnighter,three to four (V),500-1500,SF Trinity @ Hyampom,wilderness adventure,lover's leap,1-5 (1 mandatory),26,38 average,"Trinity, SF",yes,yes,,,yes,yes,,81,140,140,Highway 36,"40.3707, -123.3133",Hyampom,"40.6042, -123.4484",5:50:00,2:20:00,70,45,1:10:00,no
+189,NF Mad,three to four (V),400-800,no,local fix,Timber Property Issues,0-2,5,"43, 75, 82, 138, 13",Mad,yes,yes,,,,yes,,102,173,15,Highway 299 Bridge (479'),"40.9156, -123.9149",Korbel (128'),"40.8704, -123.9624",0:45:00,0:15:00,10,8,0:10:00,short downhill
+193,Swinging Bridge,three to four (V),1000-3000,Mad @ Arcata,coast classic,summer swim hole,0-3,10.5,38 average,Mad,yes,yes,,,yes,yes,,104,176,50,Jack Shaw Road (722'),"40.6627, -123.8388",Butler Valley Road (322'),"40.7642, -123.8889",3:50:00,0:50:00,60,21,1:00:00,short downhill
+124,Denny Run,three+,400-1000,Estimator: Salmon @ Somes Bar,semi-roadside play,Scout takeout before putting on this run!,no,3.5,47 average,"Trinity, New",yes,yes,,,yes,yes,,68,121,120,Denny Campground (1339'),"40.9331, -123.3933",Panther Campground (1173'),"40.9078, -123.4266",2:30:00,2:00:00,10,4,0:10:00,no
+132,Pigeon Point,three+,3000+,Trinity @ Cedar Flat,classic class III,Serendipity Snapshots,no,6.5,21 average,Trinity,yes,yes,yes,yes,yes,yes,yes,72,127,85,Pigeon Point Campground,"40.7673, -123.1325",Big Flat River Access,"40.7410, -123.2169",1:55:00,1:25:00,10,6,0:10:00,no
+134,EFNF Trinity,three+,250+,15% of North Trin,beginner creeking,Robin's run,no,3.6,82 average,"Trinity, NF",yes,yes,,,peak snowmelt,yes,,73,128,95,Barney Gulch (1691'),"40.8209, -123.1238",NF Confluence (1392'),"40.7812, -123.1287",2:05:00,1:35:00,10,3,0:10:00,no
+168,Lower Stuart Fork,three+,1000+,Trinity above Coffee Creek,roadside play run,bear's breath,no,2.5,89 average,"Trinity, AD",yes,yes,,,yes,yes,,89,154,130,Bridge Camp (2686'),"40.8729, -122.9176",Below Lodge (2462'),"40.8556, -122.8863",2:40:00,2:10:00,10,3,0:10:00,no
+241,Pillsbury Run,three+,800-2000,? MF Eel @ Dos Rios,semi-roadside goods,Crabtree hot springs,no,7,26 average,Eel,yes,yes,,yes,yes,yes,yes,129,218,220,Below Lake Pillsbury (1693'),"39.4107, -122.9797",Trout Creek Campground (1512'),"39.3744, -123.0650",4:55:00,3:40:00,25,10,0:25:00,no
+154,Middle Hayfork,three+ (IV),300-1000,SF Trinity @ Hyampom,intermediate creeking,wild west,0-2,8,28 average,"Trinity, SFHC",yes,yes,,,yes,yes,,83,144,180,Highway 3 in Hayfork (2290'),"40.5504, -123.1911",Nine Mile Bridge (2077'),"40.5953, -123.2785",3:45:00,3:00:00,15,7,0:15:00,no
+59,Indian Creek,three+ (V),200-1500,Indian Cr @ Happy Camp,roadside intermediate run,no monument!,0-1,8,"79, 56, 52, 46, 46, 66, 26, 56",Klamath,yes,yes,,yes,yes,yes,,28,52,210,East Fork Confluence,"41.8794, -123.4211",Indian Creek (1043'),"41.7897, -123.3790",4:15:00,3:30:00,15,8,0:15:00,no
+84,Tall Trees Run,three+ (V),500-3000,Redwood @ Orick,world heritage site,no dogs allowed,1 wood,26,20 average,Redwood,yes,yes,,yes,yes,yes,,47,81,35,Redwood Valley,"40.9638, -123.8406",Orick,"41.2999, -124.0433",4:35:00,0:35:00,80,61,1:20:00,no
+106,Methodist Run,three+ (V),5000+,Salmon @ Somes Bar,friendly roadside play,respect private property,no,6.5,43 average,"Salmon, SF",yes,yes,,yes,yes,yes,,57,102,120,Methodist Creek (1476'),"41.2224, -123.2494",Forks of Salmon (1194'),"41.2575, -123.3294",2:45:00,2:00:00,15,6,0:15:00,no
+2,Jedidiah Smith,two,6000+,Smith @ Jed,"driftboat, scenic",Stout Grove,no,13,8 average,Smith,yes,yes,yes,yes,yes,yes,,1,3,105,forks river access boat ramp,"41.8025, -124.0852",public fishing access,"41.8904, -124.1481",2:45:00,1:45:00,20,11,0:20:00,no
+50,Lower Clear Creek,two,300-600,Indian Cr @ Happy Camp,scenic beginner run,Pure Beauty,no,4,40 average,Klamath,yes,yes,,yes,yes,yes,,23,45,140,Slippery View River Access,"41.7206, -123.5027",Highway 96 Bridge,"41.7109, -123.4491",3:20:00,2:20:00,20,6,0:20:00,no
+86,Lower Salmon,two,200-3500,Salmon @ Somes Bar,beginner enjoyment,salmon river outpost,no,4.5,26 average,Salmon,yes,yes,yes,yes,yes,yes,,48,89,85,Brannon's Bar,"41.3738, -123.4321",Klamath Salmon Confluence,"41.3773, -123.4943",1:55:00,1:25:00,10,4.5,0:10:00,no
+111,Hawkins Bar to Big Rock,two,2000+,Trinity @ Cedar Flat,beginner's solitude,Grey's Falls Put In,no,15.5,8 average,Trinity,yes,yes,yes,yes,yes,yes,yes,60,108,45,Hawkins Bar River Access,"40.8734, -123.5278",Big Rock River Access,"40.9468, -123.6333",1:30:00,0:45:00,15,12,0:15:00,no
+129,Hayden to Cedar,two,400-2000,Trinity @ Cedar Flat,beginner's paradise,beware of dogs,no,6.8,13 average,Trinity,yes,yes,yes,yes,yes,yes,yes,71,124,70,Hayden Flat (1040'),"40.7822, -123.3472",Cedar Flat (954'),"40.7899, -123.4389",1:55:00,1:10:00,15,6,0:15:00,no
+143,Lower SF Trinity,two,300-700,SF Trinity @ Hyampom,scenic beginner run,Appalachia in Trinity,no,8.6,12 average,"Trinity, SF",yes,yes,,yes,yes,yes,,78,136,50,Low Water Bridge (551'),"40.8351, -123.5679",Trinity Confluence (446'),"40.8892, -123.6021",1:50:00,0:50:00,20,8,0:20:00,no
+158,Douglas City to Bagdad,two,350-2000,Trinity @ Douglas City,scenic float,gold fever,no,23,11.5 average,Trinity,yes,yes,yes,yes,,yes,yes,85,149,90,Indian Creek (1617'),"40.6576, -122.9141",Bagdad (1352'),"40.7708, -123.1256",3:00:00,1:30:00,30,34.5,0:30:00,no
+162,Lewiston to Steel Bridge,two,450-3000,Trinity @ Limekiln,gentle float,fish on!,no,11,12 average,Trinity,yes,yes,yes,yes,,,yes,87,151,130,Old Bridge (1809'),"40.7078, -122.8090",Steel Bridge (1672'),"40.6746, -122.9192",3:10:00,2:10:00,20,12,0:20:00,no
+188,Town Run,two,2000+,Mad @ Arcata,"easy, close",Mad River Brewery,no,12.5,6 average,Mad,yes,yes,,yes,yes,yes,,101,172,15,Hatchery Road (79'),"40.8549, -123.9915",Mad River Boat Ramp (10'),"40.9290, -124.1300",1:45:00,0:15:00,30,11,0:30:00,no
+199,Lower Van Duzen,two,800-2000,Van Duzen @ Bridgeville,scenic redwoods,A+ fishing,no,11,13 average,"Eel, VD",yes,yes,,,,yes,,107,181,50,Low-water Bridge (295'),"40.4762, -123.9351",Riverside Park (154'),"40.4903, -123.9877",1:20:00,0:50:00,10,7,0:10:00,no
+214,Bull Creek,two,100-150,Bull Creek @ Weott,hobbit wonderland,bring a camera,wood,6,22 average,Eel,yes,yes,,yes,,yes,,116,196,60,Flatiron Tree (243'),"40.3504, -124.0072",Highway 101 (109'),"40.3551, -123.9207",1:45:00,1:00:00,15,6.5,0:15:00,no
+236,Hearst Run,two,600-2000,? MF Eel @ Dos Rios,roadless classic,secret stash,no,19,19 average,Eel,yes,yes,,,yes,yes,,127,216,210,Hearst (1293'),"39.4937, -123.2087",Highway 162 (994'),"39.6269, -123.3441",6:15:00,3:30:00,55,32,0:55:00,no
+238,Van Arsdale to Hearst,two,600-2000,? MF Eel @ Dos Rios,roadless beginner run,combine with hearst,no,11.4,40 average,Eel,yes,yes,,,yes,yes,,128,217,180,Van Arsdale,"39.3877, -123.1167",Hearst (1293'),"39.4937, -123.2087",7:00:00,3:00:00,80,54.5,1:20:00,no
+82,Big Rock to Tish-Tang,two (II+),500-2000,Trinity @ Hoopa,summertime relaxation,rope swing takers?,no,11,11 average,Trinity,yes,yes,yes,yes,yes,yes,yes,46,80,60,Big Rock River Access,"40.9468, -123.6333",Tish-Tang Campground,"41.0239, -123.6363",1:45:00,1:00:00,15,8.2,0:15:00,no
+57,I5 to Happy Camp,two (III),1200-4000,Klamath @ Seiad,roadside beginner run,open canoes - yes!,no,72,14 average,Klamath,yes,yes,yes,yes,yes,yes,yes,27,50,210,Randolf Collier Rest Area,"41.8528, -122.5720",Indian Creek (1043'),"41.7897, -123.3790",7:30:00,3:30:00,80,65,1:20:00,no
+78,Hoopa Gorge,two (III),800-5000,Klamath @ Klamath Glen,"scenic, remote",shuttle driver?,no,17.5,7.5 average,Trinity,yes,yes,yes,yes,yes,yes,yes,42,76,80,Tish-Tang Campground,"41.0239, -123.6363",Weitchpec,"41.1878, -123.7124",2:35:00,1:20:00,25,19,0:25:00,no
+83,Big Rock to Tish-Tang,two (III),2000+,Trinity @ Hoopa,summertime relaxation,rope swing takers?,no,11,11 average,Trinity,yes,yes,yes,yes,yes,yes,yes,46,80,60,Big Rock River Access,"40.9468, -123.6333",Tish-Tang Campground,"41.0239, -123.6363",1:45:00,1:00:00,15,8.2,0:15:00,no
+191,Lower Mad,"two (IV, V)",1000-3000,Mad @ Arcata,schizophrenic,good!,0-2,18.5,13 average,Mad,yes,yes,,yes,yes,yes,,103,174,20,Butler Valley Road (322'),"40.7642, -123.8889",Hatchery Road (79'),"40.8549, -123.9915",2:35:00,0:20:00,45,17,0:45:00,no
+192,Lower Mad,two to four (V+),3000-10000,Mad @ Arcata,schizophrenic,good!,0-2,18.5,13 average,Mad,yes,yes,,yes,yes,yes,,103,174,20,Butler Valley Road (322'),"40.7642, -123.8889",Hatchery Road (79'),"40.8549, -123.9915",2:35:00,0:20:00,45,17,0:45:00,no
+6,Gasquet Run,two to three,600-5000,60% of Smith @ Jed,roadside beginner run,fun play @ 3000 on Smith @ Jed,no,5.4,23 average,"Smith, MF",yes,yes,,yes,yes,yes,,3,5,100,steel pipe,"41.8480, -123.9686",Oregon hole gorge,"41.8219, -124.0347",2:10:00,1:40:00,10,5.4,0:10:00,no
+51,Lower Clear Creek,two to three,600-1200+,Indian Cr @ Happy Camp,scenic beginner run,Pure Beauty,no,4,40 average,Klamath,yes,yes,,yes,yes,yes,,23,45,140,Slippery View River Access,"41.7206, -123.5027",Highway 96 Bridge,"41.7109, -123.4491",3:20:00,2:20:00,20,6,0:20:00,no
+58,I5 to Happy Camp,two to three,4000+,Klamath @ Seiad,roadside beginner run,open canoes - yes!,no,72,14 average,Klamath,yes,yes,yes,yes,yes,yes,yes,27,50,210,Randolf Collier Rest Area,"41.8528, -122.5720",Indian Creek (1043'),"41.7897, -123.3790",7:30:00,3:30:00,80,65,1:20:00,no
+68,Weitchpec Run,two to three,2000-50000+,Klamath @ Klamath Glen,big water fun,sick play potential,no,10.5,7 average,Klamath,yes,yes,yes,yes,yes,yes,yes,35,67,100,Weitchpec,"41.1878, -123.7124",Cappell Creek,"41.2812, -123.8236",2:55:00,1:40:00,25,9,0:25:00,no
+74,Lower Red Cap Creek,two to three,~2600,"Not really, best guess from Salmon @ Somes Bar",scenic beginner run,wine tasting,no,4 (6),"79, 62, 54, 39, 78",Klamath,yes,yes,,yes,yes,yes,,40,74,85,Road 10N02 Bridge,"41.2428, -123.5443",Big Bar River Access,"41.2519, -123.6348",2:55:00,1:25:00,30,12,0:30:00,no
+79,Hoopa Gorge,two to three,5000+,Klamath @ Klamath Glen,"scenic, remote",shuttle driver?,no,17.5,7.5 average,Trinity,yes,yes,yes,yes,yes,yes,yes,42,76,80,Tish-Tang Campground,"41.0239, -123.6363",Weitchpec,"41.1878, -123.7124",2:35:00,1:20:00,25,19,0:25:00,no
+159,Douglas City to Bagdad,two to three,2000+,Trinity @ Douglas City,scenic float,gold fever,no,23,11.5 average,Trinity,yes,yes,yes,yes,,yes,yes,85,149,90,Indian Creek (1617'),"40.6576, -122.9141",Bagdad (1352'),"40.7708, -123.1256",3:00:00,1:30:00,30,34.5,0:30:00,no
+211,Upper Van Duzen,two to three,2000+,Van Duzen @ Bridgeville,mellow intermediate run,fantastic bike shuttle,no,11,36 average,"Eel, VD",yes,yes,,yes,yes,yes,,113,189,105,West Fork Duzen (2927'),"40.2959, -123.4611",Browns Canyon (2536'),"40.4143, -123.5187",3:00:00,1:45:00,25,10,0:25:00,no
+215,Bull Creek,two to three,250+,Bull Creek @ Weott,hobbit wonderland,bring a camera,wood,6,22 average,"Eel, SF",yes,yes,,yes,,yes,,116,196,60,Flatiron Tree (243'),"40.3504, -124.0072",Highway 101 (109'),"40.3551, -123.9207",1:45:00,1:00:00,15,6.5,0:15:00,no
+222,Dos Rios to Alderpoint,two to three,1000-3000,Eel @ Fort Seward,classic multiday,afternoon wind,no,46,13 average,Eel,yes,yes,,yes,yes,yes,,120,200,115,Dos Rios (860'),"39.7183, -123.3533",Alderpoint (276'),"40.1665, -123.6010",7:55:00,1:55:00,120,88,2:00:00,no
+237,Hearst Run,two to three,2000+,? MF Eel @ Dos Rios,roadless classic,secret stash,no,19,19 average,Eel,yes,yes,,,yes,yes,,127,216,210,Hearst (1293'),"39.4937, -123.2087",Highway 162 (994'),"39.6269, -123.3441",6:15:00,3:30:00,55,32,0:55:00,no
+239,Van Arsdale to Hearst,two to three,2000+,? MF Eel @ Dos Rios,roadless beginner run,combine with hearst,no,11.4,40 average,Eel,yes,yes,,,yes,yes,,128,217,180,Van Arsdale,"39.3877, -123.1167",Hearst (1293'),"39.4937, -123.2087",7:00:00,3:00:00,80,54.5,1:20:00,no
+227,Middle Fork Eel,two to three (IV+),750-2000,MF Eel @ Dos Rios,wilderness classic,Black Butte Store Shuttles,0-2,33,18 average,"Eel, MF",yes,yes,,yes,yes,yes,,123,208,160,Black Butte River (1450'),"39.8270, -123.0863",Dos Rios (860'),"39.7183, -123.3533",4:55:00,2:40:00,45,26,0:45:00,no
+110,Hawkins Bar to Big Rock,two-,400-2000,Trinity @ Cedar Flat,beginner's solitude,Grey's Falls Put In,no,15.5,8 average,Trinity,yes,yes,yes,yes,yes,yes,yes,60,108,45,Hawkins Bar River Access,"40.8734, -123.5278",Big Rock River Access,"40.9468, -123.6333",1:30:00,0:45:00,15,12,0:15:00,no
+130,Hayden to Cedar,two+,2000+,Trinity @ Cedar Flat,beginner's paradise,beware of dogs,no,6.8,13 average,Trinity,yes,yes,yes,yes,yes,yes,yes,71,124,70,Hayden Flat (1040'),"40.7822, -123.3472",Cedar Flat (954'),"40.7899, -123.4389",1:55:00,1:10:00,15,6,0:15:00,no
+144,Lower SF Trinity,two+,700-4000,SF Trinity @ Hyampom,scenic beginner run,Appalachia in Trinity,no,8.6,12 average,"Trinity, SF",yes,yes,,yes,yes,yes,,78,136,50,Low Water Bridge (551'),"40.8351, -123.5679",Trinity Confluence (446'),"40.8892, -123.6021",1:50:00,0:50:00,20,8,0:20:00,no
+200,Lower Van Duzen,two+,800-2000,Van Duzen @ Bridgeville,scenic redwoods,A+ fishing,no,11,13 average,"Eel, VD",yes,yes,,,,yes,,107,181,50,Low-water Bridge (295'),"40.4762, -123.9351",Riverside Park (154'),"40.4903, -123.9877",1:20:00,0:50:00,10,7,0:10:00,no
+210,Upper Van Duzen,two+,1200-2000,Van Duzen @ Bridgeville,mellow intermediate run,fantastic bike shuttle,no,11,36 average,"Eel, VD",yes,yes,,yes,yes,yes,,113,189,105,West Fork Duzen (2927'),"40.2959, -123.4611",Browns Canyon (2536'),"40.4143, -123.5187",3:00:00,1:45:00,25,10,0:25:00,no
+233,Outlet Run,two+,600-2000,MF Eel @ Dos Rios,roadside play run,open canoes :),no,6,22 average,Eel,yes,yes,,yes,peak snowmelt,yes,,126,215,155,Outlet Creek (994'),"39.6269, -123.3441",Above MF (860'),"39.7078, -123.3550",3:05:00,2:35:00,10,6,0:10:00,no
+253,Forks Run,two+,1800-5500,Salmon @ Somes Bar,roadside beginner run,execellent bike shuttle,no,4.3,36 average,Salmon,yes,yes,,yes,yes,yes,,N/A,N/A,130,Forks of Salmon (1194'),"41.2575, -123.3294",Nordheimer Campground,"41.2974, -123.3599",2:55:00,2:10:00,15,4.2,0:15:00,no
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
