@@ -12,7 +12,7 @@ river_beta = read.csv(file = "C:/Users/bstacy2/Documents/Rshiny/RiverBeta_V1_BS.
 station_id = river_beta$guage_id[2]
 # REMEMBER TO APPLY PERCENT CORRECTION SOMEWHERE BEFORE PLOT!
 start_date = "2025-03-05"
-end_date = "2025-05-09"
+end_date = "2025-05-21"
 beta_min = river_beta$flow_min[2]
 beta_max = river_beta$flow_max[2]
 
